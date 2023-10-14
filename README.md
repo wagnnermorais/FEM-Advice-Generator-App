@@ -1,8 +1,8 @@
-# Front-end Coffeeroasters Subscription Site
+# Front-end Dictionary Web App
 
 Repositório criado para realizar o desafio de front-end do Front-end Mentor.
 
-https://www.frontendmentor.io/challenges/coffeeroasters-subscription-site-5Fc26HVY6
+https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL
 
 ## Layout
 
