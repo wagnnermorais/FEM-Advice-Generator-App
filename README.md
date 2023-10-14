@@ -1,8 +1,8 @@
-# Front-end Dictionary Web App
+# Front-end Advice Generator App
 
 Repositório criado para realizar o desafio de front-end do Front-end Mentor.
 
-https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL
+https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db
 
 ## Layout
 
