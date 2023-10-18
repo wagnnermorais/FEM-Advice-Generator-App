@@ -13,6 +13,7 @@
   flex-direction: column;
   max-width: 600px;
   padding: 2rem;
+  margin: 0 1rem;
   position: relative;
   text-align: center;
   border: none;
@@ -21,6 +22,7 @@
 }
 
 .main-title {
+  margin: 1rem 0 0;
   text-transform: uppercase;
   letter-spacing: 4px;
   color: hsl(var(--primary-neon-green));
@@ -61,4 +63,32 @@
 
 .dice:hover {
   box-shadow: 0 0 50px 5px hsl(var(--primary-neon-green));
+}
+
+.enabled {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.disabled,
+.icon-disabled {
+  background: gray;
+  border: none;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+    padding: 2rem 0;
+  }
+
+  .advice {
+    padding: 0 0.5rem;
+  }
+
+  .border-divider {
+    width: 90%;
+  }
 }
