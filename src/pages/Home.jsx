@@ -19,7 +19,7 @@ const Home = () => {
     <div className="main-background">
       <div className="container">
         <div className="title">
-          <p className="main-title">{`Advice #${id} ` || "Loading..."}</p>
+          <p className="main-title">{id ? `Advice #${id}` : "Loading..."}</p>
         </div>
         <div className="advice-box">
           <h1 className="advice">
