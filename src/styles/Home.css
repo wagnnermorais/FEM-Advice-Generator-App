@@ -73,7 +73,7 @@
 
 .disabled,
 .icon-disabled {
-  background: gray;
+  background: rgb(28, 28, 29);
   border: none;
 }
 
