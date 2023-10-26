@@ -12,7 +12,8 @@
   justify-content: center;
   flex-direction: column;
   max-width: 600px;
-  padding: 2rem;
+  padding: 1rem;
+  min-height: 350px;
   margin: 0 1rem;
   position: relative;
   text-align: center;
